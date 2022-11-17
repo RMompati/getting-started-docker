@@ -1,4 +1,4 @@
-FROM maven:3-openjdk-11
+FROM maven:3-eclipse-temurin-11-alpine
 
 WORKDIR /mouse-api
 
